@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Kartik Javali
-- 👀 I’m interested in deep learning, AI, clean code
-- 🌱 I’m currently learning CI/CD pipelines, Github Actions
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👋 Hi, I’m Kartik Javali, building automated test frameworks using CI/CD pipelines
 - 📫 kartik.javali@gmail.com
 
 
